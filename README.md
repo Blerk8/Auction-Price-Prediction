@@ -42,3 +42,6 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 
 ## 4. Features
 Kaggle provides a data dictionary detailing the features of the dataset (filename = Data Dictionary.xlsx) via https://www.kaggle.com/c/bluebook-for-bulldozers/data
+
+## 5. Conclusion
+With fair accuracy (MSAE) we are able to predict the auction sale price of bulldozers, based on historical information.
