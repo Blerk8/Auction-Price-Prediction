@@ -1,5 +1,7 @@
 # Auction-Price-Prediction
 Predicting the auctioned sales-price of heavy machinery (bulldozers) based on its attributes
+**Code:** https://github.com/Blerk8/Auction-Price-Prediction/blob/master/end_to_end_bulldozer_price_regression.ipynb
+
 
 ## 1. Problem definition
 The following is taken from the Kaggle Bluebook for Bulldozers competition: https://www.kaggle.com/c/bluebook-for-bulldozers/overview/description
